@@ -1,8 +1,8 @@
-# EntityFramework-PostgressSQL
+# EntityFramework-PostgreSQL 
 
-SMS is simple .Net Application shows how to connect .Net Entity Framework to the PostgressSQL database
+SMS is simple .Net Application shows how to connect .Net Entity Framework to the PostgreSQL database
 
-It uses the Npgsql and EntityFramework6.Npgsql to connect to the PostgressSQL database. It based on on a Domain Driven pattern and N-Tire design;
+It uses the Npgsql and EntityFramework6.Npgsql to connect to the PostgreSQL database. It based on on a Domain Driven pattern and N-Tire design;
 	1. Repository
 	2. Model
 	3. Service
