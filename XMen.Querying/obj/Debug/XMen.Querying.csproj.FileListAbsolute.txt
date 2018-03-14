@@ -1,0 +1,21 @@
+C:\Users\Henry Bobic\Downloads\hardmans-moj-0d87c72535e3\XMen.Querying\bin\Debug\XMen.Querying.dll
+C:\Users\Henry Bobic\Downloads\hardmans-moj-0d87c72535e3\XMen.Querying\bin\Debug\XMen.Querying.pdb
+C:\Users\Henry Bobic\Downloads\hardmans-moj-0d87c72535e3\XMen.Querying\obj\Debug\XMen.Querying.dll
+C:\Users\Henry Bobic\Downloads\hardmans-moj-0d87c72535e3\XMen.Querying\obj\Debug\XMen.Querying.pdb
+D:\001 On-Hand Projects\Mojahed\Mojahedin\XMen.Querying\bin\Debug\XMen.Querying.dll
+D:\001 On-Hand Projects\Mojahed\Mojahedin\XMen.Querying\bin\Debug\XMen.Querying.pdb
+D:\001 On-Hand Projects\Mojahed\Mojahedin\XMen.Querying\obj\Debug\XMen.Querying.dll
+D:\001 On-Hand Projects\Mojahed\Mojahedin\XMen.Querying\obj\Debug\XMen.Querying.pdb
+D:\001 On-Hand Projects\Mojahed\Mojahedin\XMen.Querying\obj\Debug\XMen.Querying.csprojResolveAssemblyReference.cache
+D:\001 On-Hand Projects\Shiraz\Solution\XMen.Querying\bin\Debug\XMen.Querying.dll
+D:\001 On-Hand Projects\Shiraz\Solution\XMen.Querying\bin\Debug\XMen.Querying.pdb
+D:\001 On-Hand Projects\Shiraz\Solution\XMen.Querying\obj\Debug\XMen.Querying.dll
+D:\001 On-Hand Projects\Shiraz\Solution\XMen.Querying\obj\Debug\XMen.Querying.pdb
+D:\001 On-Hand Projects\Shiraz\Solution\XMen.Querying\obj\Debug\XMen.Querying.csprojResolveAssemblyReference.cache
+D:\001 On-Hand Projects\Shiraz\Solution\XMen.Querying\obj\Debug\XMen.Querying.csproj.CoreCompileInputs.cache
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\XMen.Querying\bin\Debug\XMen.Querying.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\XMen.Querying\bin\Debug\XMen.Querying.pdb
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\XMen.Querying\obj\Debug\XMen.Querying.csprojResolveAssemblyReference.cache
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\XMen.Querying\obj\Debug\XMen.Querying.csproj.CoreCompileInputs.cache
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\XMen.Querying\obj\Debug\XMen.Querying.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\XMen.Querying\obj\Debug\XMen.Querying.pdb

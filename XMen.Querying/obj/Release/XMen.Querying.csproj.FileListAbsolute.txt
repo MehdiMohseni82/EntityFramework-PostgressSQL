@@ -1,0 +1,11 @@
+D:\001 On-Hand Projects\Mojahed\Mojahedin\XMen.Querying\bin\Release\XMen.Querying.dll
+D:\001 On-Hand Projects\Mojahed\Mojahedin\XMen.Querying\bin\Release\XMen.Querying.pdb
+D:\001 On-Hand Projects\Mojahed\Mojahedin\XMen.Querying\obj\Release\XMen.Querying.csprojResolveAssemblyReference.cache
+D:\001 On-Hand Projects\Mojahed\Mojahedin\XMen.Querying\obj\Release\XMen.Querying.dll
+D:\001 On-Hand Projects\Mojahed\Mojahedin\XMen.Querying\obj\Release\XMen.Querying.pdb
+D:\001 On-Hand Projects\Shiraz\Solution\XMen.Querying\bin\Release\XMen.Querying.dll
+D:\001 On-Hand Projects\Shiraz\Solution\XMen.Querying\bin\Release\XMen.Querying.pdb
+D:\001 On-Hand Projects\Shiraz\Solution\XMen.Querying\obj\Release\XMen.Querying.csprojResolveAssemblyReference.cache
+D:\001 On-Hand Projects\Shiraz\Solution\XMen.Querying\obj\Release\XMen.Querying.csproj.CoreCompileInputs.cache
+D:\001 On-Hand Projects\Shiraz\Solution\XMen.Querying\obj\Release\XMen.Querying.dll
+D:\001 On-Hand Projects\Shiraz\Solution\XMen.Querying\obj\Release\XMen.Querying.pdb

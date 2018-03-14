@@ -1,0 +1,17 @@
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\bin\Debug\SMS.Model.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\bin\Debug\SMS.Model.pdb
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\bin\Debug\Npgsql.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\bin\Debug\Npgsql.xml
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\obj\Debug\SMS.Model.csproj.CoreCompileInputs.cache
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\obj\Debug\SMS.Model.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\obj\Debug\SMS.Model.pdb
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\bin\Debug\SMS.Model.dll.config
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\bin\Debug\EntityFramework.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\bin\Debug\EntityFramework6.Npgsql.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\bin\Debug\EntityFramework.xml
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\bin\Debug\EntityFramework6.Npgsql.xml
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Model\obj\Debug\SMS.Model.csprojResolveAssemblyReference.cache

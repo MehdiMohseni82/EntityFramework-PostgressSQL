@@ -1,0 +1,11 @@
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Service\bin\Debug\SMS.Service.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Service\bin\Debug\SMS.Service.pdb
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Service\obj\Debug\SMS.Service.csprojResolveAssemblyReference.cache
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Service\obj\Debug\SMS.Service.csproj.CoreCompileInputs.cache
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Service\obj\Debug\SMS.Service.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Service\obj\Debug\SMS.Service.pdb
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Service\bin\Debug\XMen.Query.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Service\bin\Debug\XMen.Query.pdb
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Service\bin\Debug\SMS.Model.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Service\bin\Debug\SMS.Model.pdb
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\SMS.Service\bin\Debug\SMS.Model.dll.config

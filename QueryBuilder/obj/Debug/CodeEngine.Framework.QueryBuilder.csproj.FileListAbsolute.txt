@@ -1,0 +1,6 @@
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\QueryBuilder\bin\Debug\CodeEngine.Framework.QueryBuilder.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\QueryBuilder\bin\Debug\CodeEngine.Framework.QueryBuilder.pdb
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\QueryBuilder\obj\Debug\CodeEngine.Framework.QueryBuilder.csprojResolveAssemblyReference.cache
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\QueryBuilder\obj\Debug\CodeEngine.Framework.QueryBuilder.csproj.CoreCompileInputs.cache
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\QueryBuilder\obj\Debug\CodeEngine.Framework.QueryBuilder.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\QueryBuilder\obj\Debug\CodeEngine.Framework.QueryBuilder.pdb

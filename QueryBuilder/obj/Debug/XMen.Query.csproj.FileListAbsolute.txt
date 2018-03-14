@@ -1,0 +1,6 @@
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\QueryBuilder\obj\Debug\XMen.Query.csproj.CoreCompileInputs.cache
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\QueryBuilder\bin\Debug\XMen.Query.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\QueryBuilder\bin\Debug\XMen.Query.pdb
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\QueryBuilder\obj\Debug\XMen.Query.dll
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\QueryBuilder\obj\Debug\XMen.Query.pdb
+D:\001 On-Hand Projects\PostgressSQL Entity Sample\SMS\QueryBuilder\obj\Debug\XMen.Query.csprojResolveAssemblyReference.cache
